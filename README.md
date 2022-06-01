@@ -10,7 +10,7 @@ In this project we are going to learn how to use three of the most used librarie
 + **Selenium**
 + **Scrapy**.
 
-To learn how to use these libraries, **first** we are going to extract information from the website of the [Madrid stock exchange](https://www.bolsamadrid.es/ing/aspx/Portada/Portada.aspx), then we are going to extract economic information from the website of the newspaper [El Pais](https://english.elpais.com/economy-and-business/) (English version)
+To learn how to use these libraries, **first** we are going to extract information from the website of the [Madrid stock exchange](https://www.bolsamadrid.es/ing/aspx/Portada/Portada.aspx), **then** we are going to extract economic information from the website of the newspaper [El Pais](https://english.elpais.com/economy-and-business/) (English version)
 
 ___
 
