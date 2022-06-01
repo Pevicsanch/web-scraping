@@ -1,0 +1,17 @@
+IBEX 35 prices.
+
+The IBEX 35 (Spanish Stock Market Index) is the reference stock market index of the Madrid Stock Exchange and is made up of 35 companies. This dataset contains the share prices of IBEX35 companies. The data has been collected from The Madrid stock exchange  website on 31/05/2022 at 19:05 p.m.
+
+Contents
+
+The categories of this dataset:
++  Name: Company name.
++ Last: Last recorded price
++ % Diff.: Difference between the last registered price and the current one in %-
++ Maximum: Maximum price reached.
++ Minimum: Minimum price reached.
++ Volume: Total shares.
++ Cash: Total share capital (thousand €):
++ Date: Date of registration.
+
+Prices expressed in euros. Cash expressed in thousands of euros. The volume and cash for each security includes all operations carried out until the close of the trading session.
