@@ -1,8 +1,8 @@
-# web-scraping
+# web-scraping : *"Madrid stock exchange"* and *"El Pais"*
 
 *Learn and practice web scraping: hands on **BeautifulSoup**, **Selenium** and **Scrapy**.*
 ____
-
+To see the web version of this project click [*here*](https://pevicsanch.github.io/web-scraping/s12_02_web_scraping.html)
 
 In this project we are going to learn how to use three of the most used libraries for webscraping:
 
