@@ -1,0 +1,24 @@
+1654598443538	geckodriver	INFO	Listening on 127.0.0.1:64478
+1654598444048	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--window-size=1920,1080" "start-maximized" "--remote-debugging-port" "64479" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/f1/fnygmb715z391j0kp68y3hpw0000gn/T/rust_mozprofiledpMaZK"
+*** You are running in headless mode.
+2022-06-07 12:40:44.452 plugin-container[63313:16568533] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-07 12:40:44.453 plugin-container[63313:16568533] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1654598444478	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64479
+2022-06-07 12:40:44.550 plugin-container[63313:16568533] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-07 12:40:44.559 plugin-container[63313:16568533] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-07 12:40:44.559 plugin-container[63313:16568564] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-07 12:40:44.560 plugin-container[63313:16568564] nil host used in call to allowsAnyHTTPSCertificateForHost:
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f1/fnygmb715z391j0kp68y3hpw0000gn/T/rust_mozprofiledpMaZK/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1654598445511	Marionette	INFO	Listening on port 64493
+DevTools listening on ws://localhost:64479/devtools/browser/c5fb27aa-fe8c-4a3a-bf2c-6a5023af220b
+Read port: 64493
+1654598445620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://rtbstream.com"
+1654598454337	Marionette	INFO	Stopped listening on port 64493
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
